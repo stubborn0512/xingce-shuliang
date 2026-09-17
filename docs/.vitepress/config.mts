@@ -4,7 +4,7 @@ export default defineConfig({
   title: '果果的行测数量关系学习库',
   description: '行测数量关系知识、疑惑、错题与考场策略的个人学习库',
   lang: 'zh-CN',
-  base: '/xxx/',
+  base: '/xingce-shuliang/',
   cleanUrls: true,
   lastUpdated: true,
 
@@ -65,10 +65,10 @@ export default defineConfig({
     outline: { level: [2, 3] },
     search: { provider: 'local' },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/stubborn0512/xxx' }
+      { icon: 'github', link: 'https://github.com/stubborn0512/xingce-shuliang' }
     ],
     editLink: {
-      pattern: 'https://github.com/stubborn0512/xxx/edit/main/docs/:path'
+      pattern: 'https://github.com/stubborn0512/xingce-shuliang/edit/main/docs/:path'
     },
     footer: {
       message: '把不会的弄懂，把会的练成条件反射。',
